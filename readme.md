@@ -1,6 +1,6 @@
 # Test git project
 
-Uczymy się użyuwać **gita**
+Uczymy się używać **gita**
 Do tej pory nauczyłem się:
 
 - CSS
